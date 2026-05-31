@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+        <meta charset="UTF-8">
+        <title> Meu projeto exercício 2</title>
+            </head>
+    <body>
+        <h1> Esse é o título do meu projeto pessoal
+        </h1>
+        <h2> Esse é o sub-título do meu projeto pessoal
+        </h2>
+        <p> Esse é o parágrafo do meu projeto pessoal
+        </p>
+        <img src="coelho fofo.jpg" alt="coelho branco e bege segurando suas patinhas deitado na grama">
+        <ul>
+            <li> item sem ordem </li>
+            <li> item sem ordem </li>
+        </ul>
+        <ol>
+            <li> primeiro item ordenado </li>
+            <li> segundo item ordenado </li>
+        </ol>
+    </body>
+</html>
